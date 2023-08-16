@@ -1,0 +1,13 @@
+#Available languages
+#language code|Human-readable name|language file
+ca|Catalan|ca.lang
+cn|Chinese (China Mainland)|cn.lang
+nl|Dutch|nl.lang
+en|English|en.lang
+fr|French|fr.lang
+de|German|de.lang
+ko|Korean|ko.lang
+pt-br|Portuguese (Brasil)|pt-br.lang
+ru|Russian|ru.lang
+sk|Slovak|sk.lang
+sv|Swedish|sv.lang
